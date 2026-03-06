@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Tanaman Hias Rahayu",
+  title: "Tanaman Hias",
   description: "Toko tanaman hias Kebun Rahayu menyediakan berbagai tanaman indoor dan outdoor berkualitas.",
 };
 
