@@ -274,6 +274,28 @@ const plants = [
     description:
       "Philodendron Xanadu adalah tanaman hias tropis dengan daun hijau berlekuk yang tumbuh rimbun dari pangkal batang.",
   },
+  {
+    id: 26,
+    name: "Keladi Alocasia",
+    price: 45000,
+    category: "Indoor",
+    size: "Besar",
+    pot: "Plastik Hitam",
+    image: "/images/plants/keladi_alocasia.jpg",
+    description:
+      "Keladi Alocasia adalah tanaman hias tropis yang memiliki daun berbentuk panah dengan tulang daun yang terlihat jelas.",
+  },
+  {
+    id: 27,
+    name: "Philodendron Burle",
+    price: 35000,
+    category: "Indoor",
+    size: "Besar",
+    pot: "Plastik Putih",
+    image: "/images/plants/philodendron_burle.jpg",
+    description:
+      "Philodendron Burle Marx adalah tanaman hias tropis yang memiliki daun hijau memanjang dengan permukaan mengkilap.",
+  },
 ];
 
 export default plants;
