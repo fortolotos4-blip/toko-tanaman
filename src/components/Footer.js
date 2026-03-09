@@ -6,9 +6,9 @@ export default function Footer() {
         Tanaman Hias Rahayu 
       </h3>
 
-          <div className="flex items-center gap-2 mt-3">
+          <div className="flex items-center justify-center gap-2 mt-3">
             <span className="text-yellow-300 text-lg">★★★★★</span>
-            <span className="text-sm">4.8 / 5 dari Google Reviews</span>
+            <span className="text-sm">4.9 / 5 dari Google Reviews</span>
           </div>
 
           <a

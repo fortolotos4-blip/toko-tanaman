@@ -237,7 +237,7 @@ const plants = [
     category: "Indoor",
     size: "Besar",
     pot: "Platik Putih",
-    image: "/images/plants/calathea_loesenari.jpg",
+    image: "/images/plants/calathea_loesanari.jpg",
     description:
       "Calathea loeseneri atau Calathea Loeseneri adalah tanaman hias tropis yang memiliki daun lebar berwarna hijau dengan bentuk yang elegan.",
   },
