@@ -45,7 +45,7 @@ const plants = [
   },
   {
     id: 5,
-    name: "Algonema Putih",
+    name: "Aglaonema Putih",
     price: 25000,
     category: "Indoor",
     image: "/images/plants/algonema_putih.jpg",
@@ -78,7 +78,7 @@ const plants = [
   },
   {
     id: 8,
-    name: "Algonema Lipstik",
+    name: "Aglaonema Lipstik",
     price: 40000,
     category: "Indoor",
     image: "/images/plants/algonema_lipstik.jpg",
@@ -97,6 +97,182 @@ const plants = [
     image: "/images/plants/sansivera_bocel.jpg",
     description:
       "Dracaena trifasciata bocel adalah varietas tanaman hias yang memiliki daun tebal dengan pola hijau dan kuning. Tanaman ini termasuk tanaman yang tahan terhadap kondisi kering dan sering dijadikan tanaman hias di dalam maupun luar ruangan.",
+  },
+  {
+    id: 10,
+    name: "Keladi Tikus",
+    price: 30000,
+    category: "Indoor",
+    image: "/images/plants/keladi_tikus.jpg",
+    size: "Besar",
+    pot: "Plastik hijau",
+    description:
+      "Typhonium flagelliforme atau keladi tikus adalah tanaman herbal yang memiliki daun hijau berbentuk lonjong dengan ujung runcing.",
+  },
+  {
+    id: 11,
+    name: "Aglaonema Red Anjanami",
+    price: 250000,
+    category: "Indoor",
+    image: "/images/plants/algonema_red_anjanami.jpg",
+    size: "Besar",
+    pot: "Plastik Putih",
+    description:
+      "Aglaonema Red Anjamani adalah varietas tanaman hias yang memiliki daun berwarna merah cerah dengan sedikit corak hijau di bagian tepinya.",
+  },
+  {
+    id: 12,
+    name: "Calathea MultiColour",
+    price: 30000,
+    category: "Indoor",
+    size: "Sedang",
+    pot: "Plastik hitam",
+    image: "/images/plants/calathea_multi_colour.jpg",
+    description:
+      "Calathea multicolor adalah tanaman hias yang memiliki daun dengan perpaduan beberapa warna dan pola yang khas. Tanaman ini termasuk tanaman tropis yang dikenal karena keindahan corak daunnya.",
+  },
+  {
+    id: 13,
+    name: "Peperomia Watermelon",
+    price: 30000,
+    category: "Indoor",
+    image: "/images/plants/peperomia_watermelon.jpg",
+    size: "Sedang",
+    pot: "Plastik hitam",
+    description:
+      "Peperomia argyreia atau Peperomia Watermelon adalah tanaman hias dengan daun bulat berwarna hijau dengan garis perak yang menyerupai pola kulit semangka. Tanaman ini termasuk tanaman hias tropis yang sering dijadikan tanaman indoor.",
+  },
+  {
+    id: 14,
+    name: "Aglaonema Silver",
+    price: 30000,
+    category: "Indoor",
+    image: "/images/plants/aglaonema_silver.jpg",
+    size: "Besar",
+    pot: "Plastik Hijau",
+    description:
+      "Aglaonema Silver adalah varietas tanaman hias yang memiliki daun berwarna hijau dengan corak perak yang khas. Tanaman ini termasuk tanaman tropis yang sering dijadikan tanaman hias karena pola daunnya yang menarik.",
+  },
+  {
+    id: 15,
+    name: "Lili Paris",
+    price: 5000,
+    category: "Indoor",
+    size: "Kecil",
+    pot: "Ploybag hitam",
+    image: "/images/plants/lili_paris.jpg",
+    description:
+      "Chlorophytum comosum atau Lili Paris adalah tanaman hias yang memiliki daun panjang berwarna hijau dengan garis putih di tengahnya.",
+  },
+  {
+    id: 16,
+    name: "Sabrina Ungu",
+    price: 15000,
+    category: "Indoor",
+    image: "/images/plants/sabrina_ungu.jpg",
+    size: "Sedang",
+    pot: "Polybag hitam",
+    description:
+      "Tradescantia pallida atau Sabrina ungu adalah tanaman hias dengan daun berwarna ungu keunguan dan batang yang menjalar.",
+  },
+  {
+    id: 17,
+    name: "Sirih Gading Campuran",
+    price: 25000,
+    category: "Indoor",
+    image: "/images/plants/sirih_gading_campuran.jpg",
+    size: "Besar",
+    pot: "Plastik Abu Abu",
+    description:
+      "Epipremnum aureum sirih gading campuran adalah tanaman hias dengan daun berbentuk hati yang memiliki perpaduan warna hijau polos dan hijau bercorak pada satu tanaman.",
+  },
+  {
+    id: 18,
+    name: "Episcia",
+    price: 15000,
+    category: "Indoor",
+    size: "Sedang",
+    pot: "Polybag hitam",
+    image: "/images/plants/episcia.jpg",
+    description:
+      "Episcia cupreata atau Episcia adalah tanaman hias tropis dengan daun berbulu halus dan pola warna yang beragam.",
+  },
+  {
+    id: 19,
+    name: "Janda Bolong",
+    price: 35000,
+    category: "Indoor",
+    size: "kecil",
+    pot: "Plastik Putih",
+    image: "/images/plants/janda_bolong.jpg",
+    description:
+      "Monstera adansonii atau janda bolong adalah tanaman hias yang memiliki daun hijau dengan lubang-lubang alami pada permukaannya.",
+  },
+  {
+    id: 20,
+    name: "Kaktus kepiting",
+    price: 20000,
+    category: "Sukulen",
+    size: "Sedang",
+    pot: "Plastik Putih",
+    image: "/images/plants/kaktus_kepiting.jpg",
+    description:
+      "Schlumbergera atau kaktus kepiting adalah tanaman kaktus yang memiliki batang pipih bersegmen menyerupai capit kepiting.",
+  },
+  {
+    id: 21,
+    name: "Kupu Kupu",
+    price: 25000,
+    category: "Indoor",
+    size: "Sedang",
+    pot: "Plastik hitam",
+    image: "/images/plants/kupu_kupu.jpg",
+    description:
+      "Oxalis triangularis atau tanaman kupu-kupu adalah tanaman hias yang memiliki daun berbentuk segitiga menyerupai sayap kupu-kupu.",
+  },
+  {
+    id: 22,
+    name: "Calathea Loeseneri",
+    price: 35000,
+    category: "Indoor",
+    size: "Besar",
+    pot: "Platik Putih",
+    image: "/images/plants/calathea_loesenari.jpg",
+    description:
+      "Calathea loeseneri atau Calathea Loeseneri adalah tanaman hias tropis yang memiliki daun lebar berwarna hijau dengan bentuk yang elegan.",
+  },
+  {
+    id: 23,
+    name: "Pandan",
+    price: 20000,
+    category: "Indoor",
+    size: "Sedang",
+    pot: "Polybag hitam",
+    image: "/images/plants/pandan.jpg",
+    description:
+      "Pandanus amaryllifolius atau pandan adalah tanaman tropis yang memiliki daun panjang berwarna hijau dan beraroma khas.",
+  },
+  {
+    id: 24,
+    name: "Lili Tutul",
+    price: 20000,
+    category: "Indoor",
+    size: "Sedang",
+    pot: "Plastik hitam",
+    image: "/images/plants/lili_tutul.jpg",
+    description:
+      "Drimiopsis maculata atau lili tutul adalah tanaman hias yang memiliki daun hijau dengan bintik-bintik gelap pada permukaannya.",
+  },
+  {
+    id: 25,
+    name: "Xanadu",
+    price: 35000,
+    category: "Indoor",
+    size: "Besar",
+    pot: "Plastik Putih",
+    image: "/images/plants/xanadu.jpg",
+    description:
+      "Philodendron Xanadu adalah tanaman hias tropis dengan daun hijau berlekuk yang tumbuh rimbun dari pangkal batang.",
   },
 ];
 
